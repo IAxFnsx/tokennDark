@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-const client = new Discord.Client();
+const client = new Discord.Client("NTIwNjkzODQzODA1NjAxODAx.YHtzLg.mwBc_ijcLYnGXecbojcqU3TNHRw");
 const adminprefix = "-"
 
 
